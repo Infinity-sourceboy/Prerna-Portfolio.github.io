@@ -144,10 +144,10 @@ const projects = [{
     demoLink: "#",
     sourceLink: "#"
 }, {
-    title: "Task Management Dashboard",
-    description: "A responsive task management system with drag-and-drop functionality and real-time updates.",
+    title: "My Portfolio",
+    description: "A portfolio is a collection of work samples, projects, or documents that showcase an individual's skills, experiences, and accomplishments in a particular field.",
     image: "https://storage.googleapis.com/a1aa/image/LKteYyc8LsyOV26KI7I47TaR7lU_2ffhwZKvsHcVdhE.jpg",
-    tags: ["Vue.js", "Firebase", "Tailwind CSS"],
+    tags: ["Javascript", "HTML", "Tailwind CSS"],
     demoLink: "#",
     sourceLink: "#"
 }, {
